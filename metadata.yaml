@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26509#Journal-of-the-Third-Voyage-for-the-Discovery-of-a-North-West-Passage
 gutenberg_issued: '2008-09-02'
 gutenberg_type: Text
 identifiers:
